@@ -1,5 +1,12 @@
-{:company/legal-name "Exelon Corporation"
- :company/lei "3SOUA6IRML7435B56G12"
+{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/3SOUA6IRML7435B56G12), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
+ :company/inquiry-form-url "https://www.exeloncorp.com/contact"
  :company/jurisdiction "US-PA"
- :company/website "https://www.exeloncorp.com"
- :company/inquiry-form-url "https://www.exeloncorp.com/contact"}
+ :company/legal-address "C/O Corporate Creations Network, INC., 900 State Street, Suite 300, 16501, Erie, US-PA, US"
+ :company/legal-form-elf "3JTE"
+ :company/legal-jurisdiction "US-PA"
+ :company/legal-name "Exelon Corporation"
+ :company/lei "3SOUA6IRML7435B56G12"
+ :company/lei-status "ISSUED"
+ :company/postal-address "10 S DEARBORN ST, FL 52, 60603, CHICAGO, US-IL, US"
+ :company/registration-number "2859390"
+ :company/website "https://www.exeloncorp.com"}
